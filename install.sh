@@ -1,1 +1,1 @@
-sudo apt-get install neovim
+yes Y | sudo apt-get install neovim
